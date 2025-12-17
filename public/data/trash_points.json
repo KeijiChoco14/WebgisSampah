@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4480, 0.5075]
+      },
+      "properties": {
+        "id": 1,
+        "kelurahan": "Sukajadi",
+        "type": "TPS",
+        "status": "Aktif",
+        "rt": 1,
+        "rw": 1,
+        "alamat": "Jl. Sukajadi No. 123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4485, 0.5080]
+      },
+      "properties": {
+        "id": 2,
+        "kelurahan": "Sukajadi",
+        "type": "Kontainer",
+        "status": "Aktif",
+        "rt": 2,
+        "rw": 1,
+        "alamat": "Jl. Raya Sukajadi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4550, 0.5120]
+      },
+      "properties": {
+        "id": 3,
+        "kelurahan": "Tampan",
+        "type": "TPS",
+        "status": "Aktif",
+        "rt": 5,
+        "rw": 2,
+        "alamat": "Jl. Tampan Raya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4400, 0.5000]
+      },
+      "properties": {
+        "id": 4,
+        "kelurahan": "Sidomulyo",
+        "type": "TPS",
+        "status": "Tidak Aktif",
+        "rt": 3,
+        "rw": 1,
+        "alamat": "Jl. Sidomulyo"
+      }
+    }
+  ]
+}
